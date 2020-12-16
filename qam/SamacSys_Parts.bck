@@ -1,0 +1,59 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD9288BSTZ-100
+D Analog Devices, AD9288BSTZ-100 Analog Devices AD9288BSTZ-100, 8 bit Parallel ADC, Dual Differential Input, 48-Pin LQFP
+$ENDCMP
+#
+$CMP D09P13B4PA00LF
+D D-Sub Standard Connectors 9P RA PIN SOLDER SHELL SZ E EU STAND
+$ENDCMP
+#
+$CMP D09S33E4PA00LF
+D AMPHENOL ICC (FCI) - D09S33E4PA00LF - D-SUB CONN, RCPT, R/A, 9POS, TH
+$ENDCMP
+#
+$CMP D15P33E4PA00LF
+D 15 Position D-Sub Plug, Male Pins Connector
+F https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c01-8646-0511.pdf
+$ENDCMP
+#
+$CMP HMC8411LP2FE
+D DC - 8 GHZ 15 DB GAIN
+F https://componentsearchengine.com/Datasheets/1/HMC8411LP2FE.pdf
+$ENDCMP
+#
+$CMP LTC5594IUH#PBF
+D Modulator / Demodulator 300MHz to 9GHz High Linearity I/Q demodulator with Wideband IF Amplifier
+F https://componentsearchengine.com/Datasheets/1/LTC5594IUH#PBF.pdf
+$ENDCMP
+#
+$CMP MAX5854ETL+
+D MAXIM INTEGRATED PRODUCTS - MAX5854ETL+ - Digital to Analogue Converter, Current Output, 10 bit, Parallel, 2.7V to 3.6V, TQFN, 40 Pins
+F https://componentsearchengine.com/Datasheets/1/MAX5854ETL+.pdf
+$ENDCMP
+#
+$CMP NBB-402-T1
+D RF Amplifier DC-8GHz Gain 15.5dB P1dB 15dBm@2GHz
+F https://componentsearchengine.com/Datasheets/1/NBB-402-T1.pdf
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP STUW81300TR
+D Clock Generator 10MHz to 800MHz-IN 16000MHz-OUT 36-Pin VFQFPN T/R
+F https://componentsearchengine.com/Datasheets/1/STUW81300TR.pdf
+$ENDCMP
+#
+$CMP SX1262IMLTRT
+D RF Transceiver LoRa, sub-GHz RF Transceiver 22dBm PA
+$ENDCMP
+#
+$CMP UHD1110-FKA-CL1A13r3q1BBQFMF3
+D Standard LEDs - SMD RGB SMD
+F https://www.cree.com/led-components/media/documents/ds-UHD1110-FKA.pdf
+$ENDCMP
+#
+#End Doc Library

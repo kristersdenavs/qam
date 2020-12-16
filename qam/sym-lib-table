@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name SamacSys_Parts)(type Legacy)(uri ${KIPRJMOD}/SamacSys_Parts.lib)(options "")(descr ""))
+  (lib (name ADRF6780ACPZN-R7)(type Legacy)(uri ${KIPRJMOD}/ADRF6780ACPZN-R7.lib)(options "")(descr ""))
+  (lib (name ADL5721)(type Legacy)(uri ${KIPRJMOD}/ADL5721.lib)(options "")(descr ""))
+  (lib (name LOCAL)(type Legacy)(uri ${KIPRJMOD}/LOCAL.lib)(options "")(descr ""))
+  (lib (name LOCAL_1)(type Legacy)(uri ${KIPRJMOD}/LOCAL_1.lib)(options "")(descr ""))
+  (lib (name sclf-10.7+)(type Legacy)(uri ${KIPRJMOD}/sclf-10.7+.lib)(options "")(descr ""))
+)
